@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutterapp
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+this is a simple blog app made by naman tiwari (22bps1155) and garima mishra (22bps1153)
+>>>>>>> ab2926bb22811c32f2855c4c4d01afa7900780f7
